@@ -1,0 +1,26 @@
+{
+    "name" : "",
+    "language" : "",
+    "backup-language" : "",
+    "comprehension-level" : "",
+    "speaking-level" : "",
+    "personal-info": "",
+    "preferences" : "",
+    "interests" : "",
+    "past-topics" : [],
+    "taught-log" : {
+        "grammar" : {},
+        "vocab" : {},
+        "other" : {}
+    },
+    "mistakes-log" : { 
+        "grammar" : {},
+        "vocab" : {},
+        "other" : {}
+    },
+    "speaking-log" : {
+        "grammar" : {},
+        "vocab" : {},
+        "other" : {}
+    }
+}

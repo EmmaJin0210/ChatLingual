@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatLingual</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #9cc0d5;  /* Updated shade of blue */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            padding: 20px; /* Adds padding to avoid touching the edges */
+            position: relative; /* Needed for absolute positioning of logout button */
+        }
+        .header {
+            font-size: 36px; /* Larger size for more impact */
+            color: #2c3e50; /* Deeper blue for contrast */
+            margin: 0 auto 50px; /* Aligns center and gives space below */
+            font-weight: bold; /* Bolder weight for emphasis */
+            text-align: center;
+            text-transform: uppercase; /* Stylish uppercasing */
+            width: 80%; /* Width management for better responsiveness */
+            line-height: 1.3; /* Adjust line height for readability */
+            letter-spacing: 1px; /* Letter spacing for a touch of elegance */
+        }
+        #header-bar {
+            position: absolute;
+            top: 0px;
+            width: 100%; /* Same width as the chat container for alignment */
+            height: 50px; /* Fixed height for the header */
+            background-color: #457b9d; /* Matching the button color for aesthetic consistency */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-sizing: border-box;
+            padding: 0 5vw;
+        }
+        .header-button {
+            padding: 5px 10px; /* Smaller padding to fit the button size */
+            font-size: 16px;
+            background-color: #457b9d; /* Matching button color */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .header-button:hover {
+            background-color: #356882; /* Darker shade for hover */
+        }
+
+        .small-button {
+            height: 25px;
+            width: 60px;
+            font-size: 16px;
+            background-color: #457b9d;  /* Matching button color */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .small-button:hover {
+            background-color: #356882;  /* Darker shade for hover */
+        }
+
+        .label {
+            margin-bottom: 5px;
+            font-size: 16px;
+        }
+        select {
+            padding: 10px;
+            width: 200px;
+            font-size: 16px;
+            border-radius: 5px;
+            border: 1px solid #8ba8b7;
+            margin-bottom: 20px; /* Space between dropdown and buttons */
+        }
+        .large-button {
+            width: 250px;  /* Large button size for better touch */
+            height: 250px; /* Large button size for better touch */
+            font-size: 24px;
+            color: white;
+            background-color: #457b9d;  /* Updated button color */
+            border-color: white;
+            border-width: 10px;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: transform 0.2s ease-in-out, box-shadow 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 10px; /* Space between buttons */
+        }
+        .large-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(69, 123, 157, 0.4);
+        }
+        .button-container {
+            display: flex;
+            justify-content: space-between; /* Centers the buttons horizontally */
+            width: 80%; /* Controls the width of the button container */
+            max-width: 600px; /* Ensures buttons don't get too spread out on wider screens */
+        }
+        .dropdown-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="header-bar">
+        <button class="header-button" onclick="window.location.href='/home';">Home</button>
+        <button class="header-button" onclick="window.location.href='/logout';">Log Out</button>
+    </div>
+    <div class="header">Welcome to ChatLingual!💬</div>
+    <form id="languageForm" class="dropdown-container" method="post" action="/set-language">
+        <!-- <div class="dropdown-container"> -->
+            <label for="language-dropdown">What language would you like to learn?</label>
+            <select id="language-dropdown" name="language" required>
+                <option>Choose a language...</option>
+                <option value="Japanese" {% if selected == "Japanese" %}selected{% endif %}>Japanese</option>
+                <!-- <option value="Chinese" {% if selected == "Chinese" %}selected{% endif %}>Chinese</option> -->
+                <!-- <option value="French" {% if selected == "French" %}selected{% endif %}>French</option>
+                <option value="Italian" {% if selected == "Italian" %}selected{% endif %}>Italian</option> -->
+            </select>
+        <!-- </div> -->
+    </form>
+    <div class="button-container">
+        <button class="large-button" onclick="submitForm('/choose-instruction-lang');">
+            <i class="icon-placeholder">📘</i>Learning Mode
+        </button>
+        <button class="large-button" onclick="submitForm('/choose-backup-lang');">
+            <i class="icon-placeholder">💬</i>Conversation Mode
+        </button>
+    </div>
+</body>
+<script>
+    function submitForm(destinationUrl) {
+        const form = document.getElementById('languageForm');
+        const languageDropdown = document.getElementById('language-dropdown');
+        const selectedLanguage = languageDropdown.value;
+
+        if (selectedLanguage !== "Choose a language...") {
+            // Create FormData object from form
+            let formData = new FormData(form);
+
+            // Use fetch to submit form data
+            fetch(form.action, {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => {
+                if (response.ok) {
+                    // Redirect only after successful submission
+                    window.location.href = destinationUrl;
+                } else {
+                    // Handle errors, e.g., show a message
+                    alert('Failed to save the selected language.');
+                }
+            })
+            .catch(error => {
+                console.error('Error submitting the form:', error);
+                alert('Error submitting the form.');
+            });
+        } else {
+            alert("Please select a language to learn.");
+        }
+    }
+
+</script>
+</html>
+

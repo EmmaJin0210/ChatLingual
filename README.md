@@ -1,3 +1,3 @@
 # ChatLingual
 
-Code release coming soon!
+Code release coming soon! (Work in progress)

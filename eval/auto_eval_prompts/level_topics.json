@@ -1,0 +1,27 @@
+{
+  "n5": [
+    "introduce yourself (such as your name, job/school, where you're from, etc.)",
+    "describe what you usually do in the morning and evening",
+    "talk about your favorite food and where you usually eat it"
+  ],
+  "n4": [
+    "explain what you will do this weekend and with whom",
+    "describe your favorite hobby and how often you do it",
+    "talk about a typical day at school or work, including schedule and people you meet"
+  ],
+  "n3": [
+    "describe a travel experience: where you went, what you saw, and who you went with",
+    "talk about planning a birthday party: location, food, and guests",
+    "describe your favorite movie: the story, characters, and why you like it"
+  ],
+  "n2": [
+    "describe a recent news story you found interesting, and why it caught your attention",
+    "explain one cultural difference between Japan and your country, and how it affects communication",
+    "discuss a challenge people face when communicating in a Japanese workplace"
+  ],
+  "n1": [
+    "discuss recent advancements in regenerative medicine and their ethical implications in Japan",
+    "explain the role of quantum computing in future communication technologies and how Japan is preparing for it",
+    "analyze the impact of declining biodiversity on Japan’s agricultural sustainability and food security"
+  ]
+}

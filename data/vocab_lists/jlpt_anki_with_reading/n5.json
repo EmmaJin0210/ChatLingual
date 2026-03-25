@@ -1,0 +1,3350 @@
+{
+    "ああ": {
+        "meaning": "Ah!, Oh!"
+    },
+    "あおい": {
+        "meaning": "blue"
+    },
+    "あかい": {
+        "meaning": "red"
+    },
+    "あかるい": {
+        "meaning": "bright (in reference to personality or weather); cheerful"
+    },
+    "あける": {
+        "meaning": "to open (v.t.)"
+    },
+    "あげる": {
+        "meaning": "to raise, to lift"
+    },
+    "あさごはん": {
+        "meaning": "breakfast"
+    },
+    "あさって": {
+        "meaning": "day after tomorrow"
+    },
+    "あした": {
+        "meaning": "tomorrow"
+    },
+    "あそこ": {
+        "meaning": "there, over there, that place"
+    },
+    "こんにちは": {
+        "meaning": "hello, good day (daytime greeting)"
+    },
+    "日本": {
+        "meaning": "Japan"
+    },
+    "と": {
+        "meaning": "and"
+    },
+    "ありがとう": {
+        "meaning": "Thank you"
+    },
+    "あ": {
+        "meaning": "Ah"
+    },
+    "タイム": {
+        "meaning": "time"
+    },
+    "よろしく": {
+        "meaning": "best regards, please remember me"
+    },
+    "あそぶ": {
+        "meaning": "to play; to spend time pleasantly; to hang out"
+    },
+    "あたたかい": {
+        "meaning": "warm"
+    },
+    "あたま": {
+        "meaning": "head"
+    },
+    "あたらしい": {
+        "meaning": "new"
+    },
+    "あちら": {
+        "meaning": "this way (polite)"
+    },
+    "あっち": {
+        "meaning": "over there"
+    },
+    "あつい": {
+        "meaning": "hot (in reference to weather), warm"
+    },
+    "あなた": {
+        "meaning": "you"
+    },
+    "あの": {
+        "meaning": "that over there; like that, that way; um..."
+    },
+    "あびる": {
+        "meaning": "to bathe, to shower"
+    },
+    "あぶない": {
+        "meaning": "dangerous, critical"
+    },
+    "あまい": {
+        "meaning": "generous, sweet"
+    },
+    "あまり": {
+        "meaning": "not very; surplus"
+    },
+    "あらう": {
+        "meaning": "to wash"
+    },
+    "あるく": {
+        "meaning": "to walk"
+    },
+    "あれ": {
+        "meaning": "that one (over there)"
+    },
+    "いい": {
+        "meaning": "good"
+    },
+    "いいえ": {
+        "meaning": "no, not at all"
+    },
+    "いかが": {
+        "meaning": "how, in what way"
+    },
+    "いくつ": {
+        "meaning": "how many, how old"
+    },
+    "いくら": {
+        "meaning": "how much, how many"
+    },
+    "いしゃ": {
+        "meaning": "doctor; physician"
+    },
+    "いす": {
+        "meaning": "chair"
+    },
+    "いそがしい": {
+        "meaning": "busy (people, days)"
+    },
+    "いたい": {
+        "meaning": "hurt; painful; sore"
+    },
+    "いちにち": {
+        "meaning": "one day (duration)"
+    },
+    "いちばん": {
+        "meaning": "best (most), first, number one"
+    },
+    "いっしょ": {
+        "meaning": "together"
+    },
+    "いつ": {
+        "meaning": "when"
+    },
+    "いつか": {
+        "meaning": "five days; fifth day of the month"
+    },
+    "いつつ": {
+        "meaning": "five (~)"
+    },
+    "いつも": {
+        "meaning": "always, usually, every time, never (with neg. verb)"
+    },
+    "いみ": {
+        "meaning": "meaning, significance"
+    },
+    "いもうと": {
+        "meaning": "younger sister (humble)"
+    },
+    "いりぐち": {
+        "meaning": "entrance"
+    },
+    "いれる": {
+        "meaning": "to put in"
+    },
+    "いろいろ": {
+        "meaning": "various"
+    },
+    "うしろ": {
+        "meaning": "back, behind, rear"
+    },
+    "うすい": {
+        "meaning": "thin, weak"
+    },
+    "うたう": {
+        "meaning": "to sing"
+    },
+    "うち": {
+        "meaning": "home; house; my place"
+    },
+    "うまれる": {
+        "meaning": "to be born"
+    },
+    "うるさい": {
+        "meaning": "noisy; annoying"
+    },
+    "うわぎ": {
+        "meaning": "coat, jacket"
+    },
+    "えいが": {
+        "meaning": "movie, film"
+    },
+    "えいがかん": {
+        "meaning": "movie theater, cinema"
+    },
+    "えいご": {
+        "meaning": "English (language)"
+    },
+    "ええ": {
+        "meaning": "yes"
+    },
+    "えんぴつ": {
+        "meaning": "pencil"
+    },
+    "お": {
+        "meaning": "honorable ~ (honorific)"
+    },
+    "おいしい": {
+        "meaning": "delicious, tasty"
+    },
+    "おおい": {
+        "meaning": "many; there are a lot"
+    },
+    "おおきい": {
+        "meaning": "big, large"
+    },
+    "おおきな": {
+        "meaning": "big"
+    },
+    "おおぜい": {
+        "meaning": "great number of people"
+    },
+    "おかあさん": {
+        "meaning": "mother (formal)"
+    },
+    "おかし": {
+        "meaning": "confections, sweets, snack"
+    },
+    "おかね": {
+        "meaning": "money"
+    },
+    "おきる": {
+        "meaning": "to get up (e.g., from sleeping); to happen"
+    },
+    "おくさん": {
+        "meaning": "(someone else's) wife (hon.)"
+    },
+    "おさけ": {
+        "meaning": "sake; alcohol"
+    },
+    "おさら": {
+        "meaning": "plate, dish"
+    },
+    "おしえる": {
+        "meaning": "to teach, to inform, to instruct"
+    },
+    "おじいさん": {
+        "meaning": "grandfather, male senior citizen"
+    },
+    "おじさん": {
+        "meaning": "uncle, middle-aged man"
+    },
+    "おそい": {
+        "meaning": "slow; (to be) late"
+    },
+    "おちゃ": {
+        "meaning": "(green) tea"
+    },
+    "おてあらい": {
+        "meaning": "toilet, restroom, bathroom (lit., a place to wash one's hands)"
+    },
+    "おとうさん": {
+        "meaning": "father (formal)"
+    },
+    "おとうと": {
+        "meaning": "younger brother"
+    },
+    "おとこ": {
+        "meaning": "man, male"
+    },
+    "おとこのこ": {
+        "meaning": "boy"
+    },
+    "おととい": {
+        "meaning": "the day before yesterday"
+    },
+    "おととし": {
+        "meaning": "year before last"
+    },
+    "おとな": {
+        "meaning": "adult"
+    },
+    "おなか": {
+        "meaning": "stomach"
+    },
+    "おなじ": {
+        "meaning": "same, identical"
+    },
+    "おにいさん": {
+        "meaning": "(someone else's) older brother (formal)"
+    },
+    "おねえさん": {
+        "meaning": "older sister (formal)"
+    },
+    "おばあさん": {
+        "meaning": "grandmother, female senior-citizen"
+    },
+    "おばさん": {
+        "meaning": "aunt"
+    },
+    "おふろ": {
+        "meaning": "a bath"
+    },
+    "おべんとう": {
+        "meaning": "a boxed lunch"
+    },
+    "おぼえる": {
+        "meaning": "to learn, to commit to memory, to remember, to memorize"
+    },
+    "おまわりさん": {
+        "meaning": "policeman (friendly term)"
+    },
+    "おもい": {
+        "meaning": "heavy; serious"
+    },
+    "おもしろい": {
+        "meaning": "interesting, amusing"
+    },
+    "およぐ": {
+        "meaning": "to swim"
+    },
+    "おりる": {
+        "meaning": "To get off"
+    },
+    "おわる": {
+        "meaning": "to finish, to close"
+    },
+    "おんがく": {
+        "meaning": "Music"
+    },
+    "おんな": {
+        "meaning": "woman, female"
+    },
+    "おんなのこ": {
+        "meaning": "girl"
+    },
+    "お兄さん": {
+        "meaning": "(someone else's) older brother (formal)"
+    },
+    "お姉さん": {
+        "meaning": "older sister (formal)"
+    },
+    "お弁当": {
+        "meaning": "a boxed lunch"
+    },
+    "お手洗い": {
+        "meaning": "toilet, restroom, bathroom (lit., a place to wash one's hands)"
+    },
+    "お母さん": {
+        "meaning": "mother (formal)"
+    },
+    "お父さん": {
+        "meaning": "father (formal)"
+    },
+    "お皿": {
+        "meaning": "plate, dish"
+    },
+    "お腹": {
+        "meaning": "stomach"
+    },
+    "お茶": {
+        "meaning": "(green) tea"
+    },
+    "お菓子": {
+        "meaning": "confections, sweets, snack"
+    },
+    "お酒": {
+        "meaning": "sake; alcohol"
+    },
+    "お金": {
+        "meaning": "money"
+    },
+    "お風呂": {
+        "meaning": "a bath"
+    },
+    "かいしゃ": {
+        "meaning": "company, corporation"
+    },
+    "かいだん": {
+        "meaning": "stairs"
+    },
+    "かいもの": {
+        "meaning": "shopping"
+    },
+    "かえす": {
+        "meaning": "to return something"
+    },
+    "かえる": {
+        "meaning": "to go back, to go home, to return"
+    },
+    "かかる": {
+        "meaning": "it takes (amount of time, money) (v.i.)"
+    },
+    "かける": {
+        "meaning": "to put on (e.g., glasses); to hang (e.g., on a wall)"
+    },
+    "かげつ": {
+        "meaning": "(number of) months"
+    },
+    "かぜ": {
+        "meaning": "cold, flu"
+    },
+    "かぞく": {
+        "meaning": "family, members of a family"
+    },
+    "かたかな": {
+        "meaning": "katakana"
+    },
+    "かてい": {
+        "meaning": "home; family"
+    },
+    "かばん": {
+        "meaning": "bag, basket"
+    },
+    "かびん": {
+        "meaning": "(flower) vase"
+    },
+    "かぶる": {
+        "meaning": "to wear, to put on (e.g., a hat on the head)"
+    },
+    "かようび": {
+        "meaning": "Tuesday"
+    },
+    "からい": {
+        "meaning": "hot and spicy; salty"
+    },
+    "からだ": {
+        "meaning": "body; health"
+    },
+    "かりる": {
+        "meaning": "to borrow, to owe"
+    },
+    "かるい": {
+        "meaning": "light, non-serious, minor"
+    },
+    "かわいい": {
+        "meaning": "cute, adorable"
+    },
+    "かんじ": {
+        "meaning": "kanji; Chinese character"
+    },
+    "か月": {
+        "meaning": "(number of) months"
+    },
+    "がいこく": {
+        "meaning": "foreign country; abroad"
+    },
+    "がいこくじん": {
+        "meaning": "foreigner"
+    },
+    "がくせい": {
+        "meaning": "student"
+    },
+    "がっこう": {
+        "meaning": "a school"
+    },
+    "がる": {
+        "meaning": "feel"
+    },
+    "きいろ": {
+        "meaning": "yellow"
+    },
+    "きいろい": {
+        "meaning": "yellow"
+    },
+    "きえる": {
+        "meaning": "to vanish, to disappear"
+    },
+    "きたない": {
+        "meaning": "dirty, unclean, filthy"
+    },
+    "きっさてん": {
+        "meaning": "café"
+    },
+    "きって": {
+        "meaning": "postal (postage) stamps"
+    },
+    "きっぷ": {
+        "meaning": "a ticket"
+    },
+    "きのう": {
+        "meaning": "yesterday"
+    },
+    "きゅう": {
+        "meaning": "nine"
+    },
+    "きょう": {
+        "meaning": "today, this day"
+    },
+    "きょうしつ": {
+        "meaning": "classroom"
+    },
+    "きょうだい": {
+        "meaning": "siblings (humble), brothers and sisters"
+    },
+    "きょねん": {
+        "meaning": "last year"
+    },
+    "きらい": {
+        "meaning": "dislike"
+    },
+    "きれい": {
+        "meaning": "pretty, clean, tidy"
+    },
+    "きんようび": {
+        "meaning": "Friday"
+    },
+    "ぎゅうにく": {
+        "meaning": "beef"
+    },
+    "ぎゅうにゅう": {
+        "meaning": "milk"
+    },
+    "ぎんこう": {
+        "meaning": "bank"
+    },
+    "くすり": {
+        "meaning": "medicine"
+    },
+    "ください": {
+        "meaning": "(with te-form verb) please do for me"
+    },
+    "くだもの": {
+        "meaning": "fruit"
+    },
+    "くつした": {
+        "meaning": "socks"
+    },
+    "くもり": {
+        "meaning": "cloudiness, cloudy weather"
+    },
+    "くもる": {
+        "meaning": "to become cloudy, to become dim"
+    },
+    "くらい": {
+        "meaning": "dark, gloomy"
+    },
+    "くるま": {
+        "meaning": "car, vehicle"
+    },
+    "くろい": {
+        "meaning": "black; dark"
+    },
+    "ぐらい": {
+        "meaning": "approximate (quantity)"
+    },
+    "けいかん": {
+        "meaning": "police officer"
+    },
+    "けさ": {
+        "meaning": "this morning"
+    },
+    "けっこう": {
+        "meaning": "splendid; enough, tolerably"
+    },
+    "けっこん": {
+        "meaning": "marriage (get married)"
+    },
+    "けっこんする": {
+        "meaning": "marriage (get married)"
+    },
+    "げつようび": {
+        "meaning": "Monday"
+    },
+    "げんかん": {
+        "meaning": "entrance (to a house or a building)"
+    },
+    "げんき": {
+        "meaning": "health(y), energetic"
+    },
+    "こうえん": {
+        "meaning": "a park"
+    },
+    "こうさてん": {
+        "meaning": "intersection"
+    },
+    "こうちゃ": {
+        "meaning": "black tea"
+    },
+    "こうばん": {
+        "meaning": "police box"
+    },
+    "ここ": {
+        "meaning": "here, this place"
+    },
+    "ここのか": {
+        "meaning": "nine days; ninth day of the month"
+    },
+    "ここのつ": {
+        "meaning": "nine (~)"
+    },
+    "こたえる": {
+        "meaning": "to answer, to reply"
+    },
+    "こちら": {
+        "meaning": "this person (polite); this way (polite)"
+    },
+    "こっち": {
+        "meaning": "this person; this direction; this side"
+    },
+    "ことし": {
+        "meaning": "this year"
+    },
+    "ことば": {
+        "meaning": "language; word(s); expression(s)"
+    },
+    "こども": {
+        "meaning": "child(ren)"
+    },
+    "この": {
+        "meaning": "this"
+    },
+    "こまる": {
+        "meaning": "to be bothered, to have difficulty"
+    },
+    "これ": {
+        "meaning": "this one"
+    },
+    "ころ": {
+        "meaning": "about, toward, approximately (time)"
+    },
+    "こんげつ": {
+        "meaning": "this month"
+    },
+    "こんしゅう": {
+        "meaning": "this week"
+    },
+    "こんな": {
+        "meaning": "such, like this"
+    },
+    "こんばん": {
+        "meaning": "tonight, this evening"
+    },
+    "ごご": {
+        "meaning": "afternoon, P.M."
+    },
+    "ごぜん": {
+        "meaning": "morning, A.M."
+    },
+    "ごはん": {
+        "meaning": "rice (cooked); meal"
+    },
+    "ごろ": {
+        "meaning": "about, toward, approximately (time)"
+    },
+    "さあ": {
+        "meaning": "come now, well"
+    },
+    "さいふ": {
+        "meaning": "wallet"
+    },
+    "さかな": {
+        "meaning": "fish"
+    },
+    "さくぶん": {
+        "meaning": "essay; composition"
+    },
+    "さとう": {
+        "meaning": "sugar"
+    },
+    "さむい": {
+        "meaning": "cold (in reference to weather)"
+    },
+    "さらいねん": {
+        "meaning": "year after next"
+    },
+    "さん": {
+        "meaning": "Mr. ~, Ms. ~"
+    },
+    "さんぽ": {
+        "meaning": "walk, stroll"
+    },
+    "さんぽする": {
+        "meaning": "walk, stroll"
+    },
+    "さ来年": {
+        "meaning": "year after next"
+    },
+    "ざっし": {
+        "meaning": "magazine, journal"
+    },
+    "しかし": {
+        "meaning": "however; but"
+    },
+    "しごと": {
+        "meaning": "work, job, occupation, employment"
+    },
+    "しずか": {
+        "meaning": "quiet, calm"
+    },
+    "しつもん": {
+        "meaning": "question, inquiry"
+    },
+    "しまる": {
+        "meaning": "to close, to be closed"
+    },
+    "しめる": {
+        "meaning": "to close, to shut"
+    },
+    "しゃしん": {
+        "meaning": "a picture; a photograph"
+    },
+    "しゅうかん": {
+        "meaning": "~ weeks"
+    },
+    "しゅくだい": {
+        "meaning": "homework"
+    },
+    "しょうゆ": {
+        "meaning": "soy sauce"
+    },
+    "しょくどう": {
+        "meaning": "cafeteria, dining hall"
+    },
+    "しろい": {
+        "meaning": "white"
+    },
+    "しんぶん": {
+        "meaning": "newspaper"
+    },
+    "じかん": {
+        "meaning": "time"
+    },
+    "じしょ": {
+        "meaning": "dictionary"
+    },
+    "じてんしゃ": {
+        "meaning": "bicycle"
+    },
+    "じどうしゃ": {
+        "meaning": "automobile"
+    },
+    "じびき": {
+        "meaning": "dictionary"
+    },
+    "じぶん": {
+        "meaning": "myself, oneself"
+    },
+    "じゃ": {
+        "meaning": "well, well then"
+    },
+    "じゃあ": {
+        "meaning": "well, well then"
+    },
+    "じゅう": {
+        "meaning": "ten"
+    },
+    "じゅぎょう": {
+        "meaning": "a class (of school)"
+    },
+    "じょうず": {
+        "meaning": "be good at, skillful"
+    },
+    "じょうぶ": {
+        "meaning": "strong, solid, durable"
+    },
+    "すいようび": {
+        "meaning": "Wednesday"
+    },
+    "すぎ": {
+        "meaning": "past; to exceed, ~ too much"
+    },
+    "すくない": {
+        "meaning": "a little; a few"
+    },
+    "すぐに": {
+        "meaning": "immediately, soon"
+    },
+    "すこし": {
+        "meaning": "little, few"
+    },
+    "すずしい": {
+        "meaning": "cool, refreshing (in reference to weather)"
+    },
+    "する": {
+        "meaning": "to do, to try; to wear small items (e.g., necktie, watch, etc.)"
+    },
+    "すわる": {
+        "meaning": "to sit"
+    },
+    "ずつ": {
+        "meaning": "at a time"
+    },
+    "せいと": {
+        "meaning": "student; pupil"
+    },
+    "せっけん": {
+        "meaning": "soap"
+    },
+    "せびろ": {
+        "meaning": "men's suit"
+    },
+    "せまい": {
+        "meaning": "narrow; not spacious"
+    },
+    "せんげつ": {
+        "meaning": "last month"
+    },
+    "せんしゅう": {
+        "meaning": "last week"
+    },
+    "せんせい": {
+        "meaning": "teacher, professor; master; doctor"
+    },
+    "せんたく": {
+        "meaning": "washing, laundry"
+    },
+    "ぜんぶ": {
+        "meaning": "all, entire, whole"
+    },
+    "そう": {
+        "meaning": "yes; appears, to be the case"
+    },
+    "そうして": {
+        "meaning": "and, like that"
+    },
+    "そうじ": {
+        "meaning": "cleaning, sweeping"
+    },
+    "そうじする": {
+        "meaning": "cleaning, sweeping"
+    },
+    "そうです": {
+        "meaning": "yes; appears, to be the case"
+    },
+    "そこ": {
+        "meaning": "that place, there; bottom, sole"
+    },
+    "そして": {
+        "meaning": "and, like that"
+    },
+    "そちら": {
+        "meaning": "over there"
+    },
+    "そっち": {
+        "meaning": "over there"
+    },
+    "その": {
+        "meaning": "that"
+    },
+    "そば": {
+        "meaning": "near, close, beside; Japanese traditional buckwheat noodle"
+    },
+    "それ": {
+        "meaning": "that one"
+    },
+    "それから": {
+        "meaning": "and then, after that"
+    },
+    "それでは": {
+        "meaning": "in that situation, well then..."
+    },
+    "たいしかん": {
+        "meaning": "embassy"
+    },
+    "たいせつ": {
+        "meaning": "important"
+    },
+    "たいへん": {
+        "meaning": "very; difficult, hard"
+    },
+    "たかい": {
+        "meaning": "tall, high; expensive"
+    },
+    "たくさん": {
+        "meaning": "many, much"
+    },
+    "たち": {
+        "meaning": "plural suffix"
+    },
+    "たて": {
+        "meaning": "length, height"
+    },
+    "たてもの": {
+        "meaning": "building"
+    },
+    "たのしい": {
+        "meaning": "enjoyable, fun"
+    },
+    "たのむ": {
+        "meaning": "to request, to ask (a favor)"
+    },
+    "たばこ": {
+        "meaning": "tobacco, cigarettes"
+    },
+    "たぶん": {
+        "meaning": "perhaps, probably, maybe"
+    },
+    "たべもの": {
+        "meaning": "food"
+    },
+    "たべる": {
+        "meaning": "to eat"
+    },
+    "たまご": {
+        "meaning": "egg"
+    },
+    "たんじょうび": {
+        "meaning": "birthday"
+    },
+    "だいがく": {
+        "meaning": "college; university"
+    },
+    "だいじょうぶ": {
+        "meaning": "It's ok (all right); No need to worry; Everything is under control"
+    },
+    "だいすき": {
+        "meaning": "very like-able, like very much"
+    },
+    "だいどころ": {
+        "meaning": "kitchen"
+    },
+    "だけ": {
+        "meaning": "only ~, just ~, as ~"
+    },
+    "だれか": {
+        "meaning": "someone"
+    },
+    "だんだん": {
+        "meaning": "gradually, by degrees"
+    },
+    "ちいさい": {
+        "meaning": "small, little"
+    },
+    "ちいさな": {
+        "meaning": "small, little"
+    },
+    "ちかい": {
+        "meaning": "near, close by, short"
+    },
+    "ちかく": {
+        "meaning": "nearby; in the neighborhood"
+    },
+    "ちかてつ": {
+        "meaning": "underground train, subway"
+    },
+    "ちがう": {
+        "meaning": "to be different; to differ; wrong"
+    },
+    "ちず": {
+        "meaning": "a map"
+    },
+    "ちゃいろ": {
+        "meaning": "brown"
+    },
+    "ちゃわん": {
+        "meaning": "rice bowl"
+    },
+    "ちゅう": {
+        "meaning": "during, while ~ing"
+    },
+    "ちょうど": {
+        "meaning": "just, right, exactly"
+    },
+    "ちょっと": {
+        "meaning": "a little, somewhat; just a little, somewhat"
+    },
+    "ついたち": {
+        "meaning": "one day; first day of the month"
+    },
+    "つかう": {
+        "meaning": "to use"
+    },
+    "つかれる": {
+        "meaning": "to get (become) tired; to become fatigued"
+    },
+    "つくえ": {
+        "meaning": "desk"
+    },
+    "つくる": {
+        "meaning": "to make, to create"
+    },
+    "つける": {
+        "meaning": "to turn on (e.g., a light); to take"
+    },
+    "つとめる": {
+        "meaning": "to work (for)"
+    },
+    "つまらない": {
+        "meaning": "boring, dull; insignificant"
+    },
+    "つめたい": {
+        "meaning": "cold (things, people)"
+    },
+    "つよい": {
+        "meaning": "strong, powerful"
+    },
+    "てがみ": {
+        "meaning": "letter"
+    },
+    "てんき": {
+        "meaning": "weather"
+    },
+    "でかける": {
+        "meaning": "to go out; to depart"
+    },
+    "できる": {
+        "meaning": "to be able to (to accomplish)"
+    },
+    "でぐち": {
+        "meaning": "an exit"
+    },
+    "では": {
+        "meaning": "then, well, so"
+    },
+    "でも": {
+        "meaning": "but, however"
+    },
+    "でんき": {
+        "meaning": "electricity, (electric) light"
+    },
+    "でんしゃ": {
+        "meaning": "electric train"
+    },
+    "でんわ": {
+        "meaning": "a telephone"
+    },
+    "とおい": {
+        "meaning": "far (away), distant"
+    },
+    "とおか": {
+        "meaning": "ten days; tenth day of the month"
+    },
+    "ときどき": {
+        "meaning": "sometimes"
+    },
+    "とけい": {
+        "meaning": "a watch; a clock"
+    },
+    "ところ": {
+        "meaning": "place"
+    },
+    "としょかん": {
+        "meaning": "library"
+    },
+    "とても": {
+        "meaning": "very (much), greatly, exceedingly"
+    },
+    "となり": {
+        "meaning": "next to, next door to"
+    },
+    "とまる": {
+        "meaning": "to come to a halt"
+    },
+    "ともだち": {
+        "meaning": "friend"
+    },
+    "とりにく": {
+        "meaning": "chicken meat"
+    },
+    "どう": {
+        "meaning": "how, in what way"
+    },
+    "どうして": {
+        "meaning": "why, for what reason"
+    },
+    "どうぞ": {
+        "meaning": "please, kindly, by all means"
+    },
+    "どうぶつ": {
+        "meaning": "animal"
+    },
+    "どうも": {
+        "meaning": "Thank you; somehow; no matter how hard one may try"
+    },
+    "どこ": {
+        "meaning": "where, what place"
+    },
+    "どちら": {
+        "meaning": "which (one) (way); where (polite)"
+    },
+    "どっち": {
+        "meaning": "which one, which way"
+    },
+    "どなた": {
+        "meaning": "who"
+    },
+    "どの": {
+        "meaning": "which"
+    },
+    "どようび": {
+        "meaning": "Saturday"
+    },
+    "どれ": {
+        "meaning": "which one"
+    },
+    "どんな": {
+        "meaning": "what, what kind of"
+    },
+    "ない": {
+        "meaning": "there isn't, doesn't have"
+    },
+    "ながい": {
+        "meaning": "long, lengthy"
+    },
+    "なくす": {
+        "meaning": "to lose something"
+    },
+    "なぜ": {
+        "meaning": "why (same as どうして)"
+    },
+    "なつやすみ": {
+        "meaning": "summer vacation"
+    },
+    "など": {
+        "meaning": "et cetera"
+    },
+    "ななつ": {
+        "meaning": "seven (~)"
+    },
+    "なのか": {
+        "meaning": "seven days; seventh day (of the month)"
+    },
+    "なまえ": {
+        "meaning": "name"
+    },
+    "ならう": {
+        "meaning": "to learn"
+    },
+    "ならぶ": {
+        "meaning": "to line up, to stand in a line (v.i.)"
+    },
+    "ならべる": {
+        "meaning": "to put (things) side by side; to line up"
+    },
+    "なる": {
+        "meaning": "to become"
+    },
+    "にぎやか": {
+        "meaning": "bustling, busy"
+    },
+    "にちようび": {
+        "meaning": "Sunday"
+    },
+    "にもつ": {
+        "meaning": "luggage; baggage"
+    },
+    "ぬるい": {
+        "meaning": "lukewarm"
+    },
+    "のぼる": {
+        "meaning": "to climb"
+    },
+    "のみもの": {
+        "meaning": "drink, beverage"
+    },
+    "はい": {
+        "meaning": "yes"
+    },
+    "はいざら": {
+        "meaning": "ashtray"
+    },
+    "はいる": {
+        "meaning": "to enter, to contain, to hold"
+    },
+    "はがき": {
+        "meaning": "postcard"
+    },
+    "はく": {
+        "meaning": "to put on (items below your waist)"
+    },
+    "はしる": {
+        "meaning": "to run"
+    },
+    "はじまる": {
+        "meaning": "(something) begins"
+    },
+    "はじめ": {
+        "meaning": "beginning, start"
+    },
+    "はじめて": {
+        "meaning": "for the first time"
+    },
+    "はたち": {
+        "meaning": "20 years old"
+    },
+    "はたらく": {
+        "meaning": "to work"
+    },
+    "はつか": {
+        "meaning": "twenty days, twentieth (day of the month)"
+    },
+    "はなし": {
+        "meaning": "talk (chat), story"
+    },
+    "はなす": {
+        "meaning": "to speak"
+    },
+    "はやい": {
+        "meaning": "early"
+    },
+    "はれる": {
+        "meaning": "to be sunny"
+    },
+    "はんぶん": {
+        "meaning": "half"
+    },
+    "ばんごう": {
+        "meaning": "number, series of digits"
+    },
+    "ばんごはん": {
+        "meaning": "dinner, evening meal"
+    },
+    "ひがし": {
+        "meaning": "east"
+    },
+    "ひくい": {
+        "meaning": "short, low"
+    },
+    "ひこうき": {
+        "meaning": "airplane"
+    },
+    "ひだり": {
+        "meaning": "left hand side"
+    },
+    "ひとつ": {
+        "meaning": "one (~)"
+    },
+    "ひとつき": {
+        "meaning": "one month"
+    },
+    "ひとり": {
+        "meaning": "one person"
+    },
+    "ひゃく": {
+        "meaning": "hundred"
+    },
+    "ひらがな": {
+        "meaning": "hiragana"
+    },
+    "ひるごはん": {
+        "meaning": "lunch, midday meal"
+    },
+    "ひろい": {
+        "meaning": "spacious; wide; broad"
+    },
+    "びょういん": {
+        "meaning": "hospital"
+    },
+    "びょうき": {
+        "meaning": "illness; sickness"
+    },
+    "ふうとう": {
+        "meaning": "envelope"
+    },
+    "ふたつ": {
+        "meaning": "two (~)"
+    },
+    "ふたり": {
+        "meaning": "two people"
+    },
+    "ふつか": {
+        "meaning": "two days; second day of the month"
+    },
+    "ふとい": {
+        "meaning": "fat, thick"
+    },
+    "ふるい": {
+        "meaning": "old (in reference to objects, not people), aged, ancient"
+    },
+    "ぶたにく": {
+        "meaning": "pork"
+    },
+    "ぶんしょう": {
+        "meaning": "sentence, text"
+    },
+    "へた": {
+        "meaning": "unskillful, poor"
+    },
+    "へや": {
+        "meaning": "a room"
+    },
+    "べんきょう": {
+        "meaning": "study"
+    },
+    "べんきょうする": {
+        "meaning": "study"
+    },
+    "べんり": {
+        "meaning": "convenient, handy"
+    },
+    "ほしい": {
+        "meaning": "to want, in need of"
+    },
+    "ほそい": {
+        "meaning": "thin, slender, fine"
+    },
+    "ほんだな": {
+        "meaning": "bookshelf"
+    },
+    "ほんとう": {
+        "meaning": "real, true"
+    },
+    "ぼうし": {
+        "meaning": "hat; cap"
+    },
+    "まいあさ": {
+        "meaning": "every morning"
+    },
+    "まいげつ": {
+        "meaning": "every month, monthly"
+    },
+    "まいしゅう": {
+        "meaning": "every week"
+    },
+    "まいつき": {
+        "meaning": "every month, monthly"
+    },
+    "まいとし": {
+        "meaning": "every year, yearly, annually"
+    },
+    "まいにち": {
+        "meaning": "every day"
+    },
+    "まいねん": {
+        "meaning": "every year, yearly, annually"
+    },
+    "まいばん": {
+        "meaning": "every night"
+    },
+    "まがる": {
+        "meaning": "to turn, to bend"
+    },
+    "まずい": {
+        "meaning": "terrible (in reference to food), unappetizing, unpleasant (taste)"
+    },
+    "また": {
+        "meaning": "and; furthermore"
+    },
+    "まだ": {
+        "meaning": "yet, still, besides"
+    },
+    "まっすぐ": {
+        "meaning": "straight (ahead), direct"
+    },
+    "まるい": {
+        "meaning": "round, circular"
+    },
+    "まんねんひつ": {
+        "meaning": "fountain pen"
+    },
+    "みがく": {
+        "meaning": "to brush (teeth); to polish"
+    },
+    "みじかい": {
+        "meaning": "short (length)"
+    },
+    "みせる": {
+        "meaning": "to show, to display"
+    },
+    "みっか": {
+        "meaning": "three days, third day of the month"
+    },
+    "みっつ": {
+        "meaning": "(~) three"
+    },
+    "みどり": {
+        "meaning": "green"
+    },
+    "みなさん": {
+        "meaning": "all of you, everyone"
+    },
+    "みなみ": {
+        "meaning": "South"
+    },
+    "みんな": {
+        "meaning": "all, everyone, everybody"
+    },
+    "むいか": {
+        "meaning": "six days; sixth day of month"
+    },
+    "むこう": {
+        "meaning": "beyond, over there"
+    },
+    "むずかしい": {
+        "meaning": "difficult"
+    },
+    "むっつ": {
+        "meaning": "six (~)"
+    },
+    "めがね": {
+        "meaning": "eye glasses"
+    },
+    "もう": {
+        "meaning": "already; again; more"
+    },
+    "もくようび": {
+        "meaning": "Thursday"
+    },
+    "もしもし": {
+        "meaning": "Hello? (used on the phone)"
+    },
+    "もっと": {
+        "meaning": "more"
+    },
+    "もんだい": {
+        "meaning": "a problem"
+    },
+    "やおや": {
+        "meaning": "greengrocer"
+    },
+    "やさい": {
+        "meaning": "vegetable"
+    },
+    "やさしい": {
+        "meaning": "easy, plain, simple"
+    },
+    "やすい": {
+        "meaning": "inexpensive; cheap (things)"
+    },
+    "やすみ": {
+        "meaning": "holiday; day off; absence"
+    },
+    "やすむ": {
+        "meaning": "to rest, to have a break, to get time off"
+    },
+    "やっつ": {
+        "meaning": "eight (~)"
+    },
+    "やる": {
+        "meaning": "to do; to give (to pets, parents, siblings, etc.)"
+    },
+    "ゆうがた": {
+        "meaning": "late afternoon (typically just before dinner time), evening"
+    },
+    "ゆうはん": {
+        "meaning": "dinner, supper, evening meal"
+    },
+    "ゆうびんきょく": {
+        "meaning": "post office"
+    },
+    "ゆうべ": {
+        "meaning": "last night"
+    },
+    "ゆうめい": {
+        "meaning": "famous"
+    },
+    "ゆっくりと": {
+        "meaning": "slowly, at ease"
+    },
+    "よい": {
+        "meaning": "good"
+    },
+    "ようか": {
+        "meaning": "eight days; eighth day of the month"
+    },
+    "ようふく": {
+        "meaning": "Western-style clothes"
+    },
+    "よく": {
+        "meaning": "frequently, often (much); well, skillfully"
+    },
+    "よっか": {
+        "meaning": "four days; fourth day of the month"
+    },
+    "よっつ": {
+        "meaning": "four (~)"
+    },
+    "よわい": {
+        "meaning": "weak"
+    },
+    "らいげつ": {
+        "meaning": "next month"
+    },
+    "らいしゅう": {
+        "meaning": "next week"
+    },
+    "らいねん": {
+        "meaning": "next year"
+    },
+    "りっぱ": {
+        "meaning": "splendid, fine"
+    },
+    "りゅうがくせい": {
+        "meaning": "international student"
+    },
+    "りょうしん": {
+        "meaning": "parents (lit., both parents)"
+    },
+    "りょうり": {
+        "meaning": "cooking; cuisine"
+    },
+    "りょこう": {
+        "meaning": "travel, trip"
+    },
+    "れいぞうこ": {
+        "meaning": "refrigerator"
+    },
+    "れんしゅう": {
+        "meaning": "(to) practice"
+    },
+    "れんしゅうする": {
+        "meaning": "(to) practice"
+    },
+    "ろうか": {
+        "meaning": "corridor"
+    },
+    "わかい": {
+        "meaning": "young"
+    },
+    "わかる": {
+        "meaning": "to understand"
+    },
+    "わすれる": {
+        "meaning": "to forget"
+    },
+    "わたくし": {
+        "meaning": "I (formal), myself, private affairs"
+    },
+    "わたし": {
+        "meaning": "I, myself"
+    },
+    "わたす": {
+        "meaning": "to hand (something) over (v.t.); to get across"
+    },
+    "わたる": {
+        "meaning": "to cross over, to go across"
+    },
+    "わるい": {
+        "meaning": "bad, sinful; inferior"
+    },
+    "をいつつ": {
+        "meaning": "five (~)"
+    },
+    "をここのつ": {
+        "meaning": "nine (~)"
+    },
+    "をとお": {
+        "meaning": "ten (~)"
+    },
+    "をななつ": {
+        "meaning": "seven (~)"
+    },
+    "をひとつ": {
+        "meaning": "one (~)"
+    },
+    "をふたつ": {
+        "meaning": "two (~)"
+    },
+    "をみっつ": {
+        "meaning": "(~) three"
+    },
+    "をむっつ": {
+        "meaning": "six (~)"
+    },
+    "をやっつ": {
+        "meaning": "eight (~)"
+    },
+    "をよっつ": {
+        "meaning": "four (~)"
+    },
+    "アパート": {
+        "meaning": "apartment (abbr.)"
+    },
+    "エレベーター": {
+        "meaning": "elevator"
+    },
+    "カップ": {
+        "meaning": "cup"
+    },
+    "カメラ": {
+        "meaning": "camera"
+    },
+    "カレンダー": {
+        "meaning": "calendar"
+    },
+    "カレー": {
+        "meaning": "curry (abbr. for curry and rice)"
+    },
+    "キロ": {
+        "meaning": "(abbr.) kilo (kilogram)"
+    },
+    "キログラム": {
+        "meaning": "(abbr.) kilo (kilogram)"
+    },
+    "キロメートル": {
+        "meaning": "(abbr.) kilo (kilometer)"
+    },
+    "ギター": {
+        "meaning": "guitar"
+    },
+    "クラス": {
+        "meaning": "a class"
+    },
+    "グラム": {
+        "meaning": "gram"
+    },
+    "コップ": {
+        "meaning": "a tumbler; a glass"
+    },
+    "コピーする": {
+        "meaning": "to copy"
+    },
+    "コート": {
+        "meaning": "coat; court (e.g., tennis)"
+    },
+    "コーヒー": {
+        "meaning": "coffee"
+    },
+    "シャツ": {
+        "meaning": "shirt"
+    },
+    "シャワー": {
+        "meaning": "shower"
+    },
+    "スカート": {
+        "meaning": "skirt"
+    },
+    "ストーブ": {
+        "meaning": "heater (lit: stove)"
+    },
+    "スプーン": {
+        "meaning": "spoon"
+    },
+    "スポーツ": {
+        "meaning": "sport(s)"
+    },
+    "ズボン": {
+        "meaning": "trousers"
+    },
+    "セーター": {
+        "meaning": "sweater"
+    },
+    "ゼロ": {
+        "meaning": "zero"
+    },
+    "タクシー": {
+        "meaning": "taxi"
+    },
+    "テスト": {
+        "meaning": "test"
+    },
+    "テレビ": {
+        "meaning": "television, TV"
+    },
+    "テーブル": {
+        "meaning": "table"
+    },
+    "テープ": {
+        "meaning": "tape"
+    },
+    "テープレコーダー": {
+        "meaning": "tape recorder"
+    },
+    "デパート": {
+        "meaning": "(abbr.) department store"
+    },
+    "トイレ": {
+        "meaning": "bathroom; toilet"
+    },
+    "ドア": {
+        "meaning": "door (Western style)"
+    },
+    "ナイフ": {
+        "meaning": "knife"
+    },
+    "ニュース": {
+        "meaning": "news"
+    },
+    "ネクタイ": {
+        "meaning": "tie, necktie"
+    },
+    "ノート": {
+        "meaning": "notebook"
+    },
+    "ハンカチ": {
+        "meaning": "handkerchief"
+    },
+    "バス": {
+        "meaning": "bus; bath; bass"
+    },
+    "バター": {
+        "meaning": "butter"
+    },
+    "パン": {
+        "meaning": "bread"
+    },
+    "パーティー": {
+        "meaning": "a party"
+    },
+    "フィルム": {
+        "meaning": "film (roll of)"
+    },
+    "フォーク": {
+        "meaning": "fork"
+    },
+    "プール": {
+        "meaning": "swimming pool"
+    },
+    "ベッド": {
+        "meaning": "bed"
+    },
+    "ペット": {
+        "meaning": "pet"
+    },
+    "ペン": {
+        "meaning": "pen"
+    },
+    "ページ": {
+        "meaning": "a page"
+    },
+    "ホテル": {
+        "meaning": "hotel"
+    },
+    "ボタン": {
+        "meaning": "button"
+    },
+    "ボールペン": {
+        "meaning": "ball-point pen"
+    },
+    "ポケット": {
+        "meaning": "pocket"
+    },
+    "ポスト": {
+        "meaning": "mailbox; post, position"
+    },
+    "マッチ": {
+        "meaning": "match"
+    },
+    "メートル": {
+        "meaning": "meter"
+    },
+    "ラジオ": {
+        "meaning": "radio"
+    },
+    "ラジオカセ": {
+        "meaning": "radio cassette player"
+    },
+    "レコード": {
+        "meaning": "record"
+    },
+    "レストラン": {
+        "meaning": "restaurant"
+    },
+    "ワイシャツ": {
+        "meaning": "shirt (lit: white shirt), business shirt"
+    },
+    "一": {
+        "meaning": "one"
+    },
+    "一つ": {
+        "meaning": "one (~)"
+    },
+    "一人": {
+        "meaning": "one person"
+    },
+    "一日": {
+        "meaning": "one day (duration)"
+    },
+    "一昨日": {
+        "meaning": "the day before yesterday"
+    },
+    "一月": {
+        "meaning": "one month"
+    },
+    "一番": {
+        "meaning": "best (most), first, number one"
+    },
+    "一緒": {
+        "meaning": "together"
+    },
+    "丁度": {
+        "meaning": "just, right, exactly"
+    },
+    "七": {
+        "meaning": "seven"
+    },
+    "七つ": {
+        "meaning": "seven (~)"
+    },
+    "七日": {
+        "meaning": "seven days; seventh day (of the month)"
+    },
+    "万": {
+        "meaning": "ten thousand"
+    },
+    "万年筆": {
+        "meaning": "fountain pen"
+    },
+    "丈夫": {
+        "meaning": "strong, solid, durable"
+    },
+    "三": {
+        "meaning": "three"
+    },
+    "三つ": {
+        "meaning": "(~) three"
+    },
+    "三日": {
+        "meaning": "three days, third day of the month"
+    },
+    "上": {
+        "meaning": "above (up, top, etc.), over, on top of"
+    },
+    "上げる": {
+        "meaning": "to raise, to lift"
+    },
+    "上手": {
+        "meaning": "be good at, skillful"
+    },
+    "上着": {
+        "meaning": "coat, jacket"
+    },
+    "下": {
+        "meaning": "under, below, beneath"
+    },
+    "下さい": {
+        "meaning": "(with te-form verb) please do for me"
+    },
+    "下手": {
+        "meaning": "unskillful, poor"
+    },
+    "両親": {
+        "meaning": "parents (lit., both parents)"
+    },
+    "並ぶ": {
+        "meaning": "to line up, to stand in a line (v.i.)"
+    },
+    "並べる": {
+        "meaning": "to put (things) side by side; to line up"
+    },
+    "中": {
+        "meaning": "during, while"
+    },
+    "丸い": {
+        "meaning": "round, circular"
+    },
+    "乗る": {
+        "meaning": "to get on, to ride in, to board"
+    },
+    "九": {
+        "meaning": "nine"
+    },
+    "九つ": {
+        "meaning": "nine (~)"
+    },
+    "九日": {
+        "meaning": "nine days; ninth day of the month"
+    },
+    "二": {
+        "meaning": "two"
+    },
+    "二つ": {
+        "meaning": "two (~)"
+    },
+    "二人": {
+        "meaning": "two people"
+    },
+    "二十日": {
+        "meaning": "twenty days, twentieth (day of the month)"
+    },
+    "二十歳": {
+        "meaning": "20 years old"
+    },
+    "二日": {
+        "meaning": "two days; second day of the month"
+    },
+    "五": {
+        "meaning": "five"
+    },
+    "五つ": {
+        "meaning": "five (~)"
+    },
+    "五日": {
+        "meaning": "five days; fifth day of the month"
+    },
+    "交差点": {
+        "meaning": "intersection"
+    },
+    "交番": {
+        "meaning": "police box"
+    },
+    "人": {
+        "meaning": "counter for people"
+    },
+    "今": {
+        "meaning": "now"
+    },
+    "今年": {
+        "meaning": "this year"
+    },
+    "今日": {
+        "meaning": "today, this day"
+    },
+    "今晩": {
+        "meaning": "tonight, this evening"
+    },
+    "今月": {
+        "meaning": "this month"
+    },
+    "今朝": {
+        "meaning": "this morning"
+    },
+    "今週": {
+        "meaning": "this week"
+    },
+    "仕事": {
+        "meaning": "work, job, occupation, employment"
+    },
+    "休み": {
+        "meaning": "holiday; day off; absence"
+    },
+    "休む": {
+        "meaning": "to rest, to have a break, to get time off"
+    },
+    "会う": {
+        "meaning": "to meet, to see"
+    },
+    "会社": {
+        "meaning": "company, corporation"
+    },
+    "伯母さん": {
+        "meaning": "aunt"
+    },
+    "伯父": {
+        "meaning": "uncle, middle-aged man"
+    },
+    "低い": {
+        "meaning": "short, low"
+    },
+    "住む": {
+        "meaning": "to reside, to live in"
+    },
+    "体": {
+        "meaning": "body; health"
+    },
+    "何": {
+        "meaning": "what"
+    },
+    "余り": {
+        "meaning": "not very; surplus"
+    },
+    "作る": {
+        "meaning": "to make, to create"
+    },
+    "作文": {
+        "meaning": "essay; composition"
+    },
+    "使う": {
+        "meaning": "to use"
+    },
+    "便利": {
+        "meaning": "convenient, handy"
+    },
+    "個": {
+        "meaning": "counter for small items (e.g., fruits, cups)"
+    },
+    "借りる": {
+        "meaning": "to borrow, to owe"
+    },
+    "側": {
+        "meaning": "~ side"
+    },
+    "傘": {
+        "meaning": "umbrella, parasol"
+    },
+    "働く": {
+        "meaning": "to work"
+    },
+    "元気": {
+        "meaning": "health(y), energetic"
+    },
+    "兄": {
+        "meaning": "(my) older brother (humble)"
+    },
+    "兄弟": {
+        "meaning": "siblings (humble), brothers and sisters"
+    },
+    "先": {
+        "meaning": "future; recent, previous"
+    },
+    "先月": {
+        "meaning": "last month"
+    },
+    "先生": {
+        "meaning": "teacher, professor; master; doctor"
+    },
+    "先週": {
+        "meaning": "last week"
+    },
+    "入る": {
+        "meaning": "to enter, to contain, to hold"
+    },
+    "入れる": {
+        "meaning": "to put in"
+    },
+    "入口": {
+        "meaning": "entrance"
+    },
+    "全部": {
+        "meaning": "all, entire, whole"
+    },
+    "八": {
+        "meaning": "eight"
+    },
+    "八つ": {
+        "meaning": "eight (~)"
+    },
+    "八日": {
+        "meaning": "eight days; eighth day of the month"
+    },
+    "八百屋": {
+        "meaning": "greengrocer"
+    },
+    "公園": {
+        "meaning": "a park"
+    },
+    "六": {
+        "meaning": "six"
+    },
+    "六つ": {
+        "meaning": "six (~)"
+    },
+    "六日": {
+        "meaning": "six days; sixth day of month"
+    },
+    "円": {
+        "meaning": "Yen"
+    },
+    "円い": {
+        "meaning": "round, circular"
+    },
+    "冊": {
+        "meaning": "counter for books"
+    },
+    "写真": {
+        "meaning": "a picture; a photograph"
+    },
+    "冬": {
+        "meaning": "winter"
+    },
+    "冷たい": {
+        "meaning": "cold (things, people)"
+    },
+    "冷蔵庫": {
+        "meaning": "refrigerator"
+    },
+    "出かける": {
+        "meaning": "to go out; to depart"
+    },
+    "出す": {
+        "meaning": "to take (something) out; to hand in (something)"
+    },
+    "出る": {
+        "meaning": "to appear, to leave"
+    },
+    "出口": {
+        "meaning": "an exit"
+    },
+    "分": {
+        "meaning": "~ minutes"
+    },
+    "分かる": {
+        "meaning": "to understand"
+    },
+    "切る": {
+        "meaning": "to cut; to hang up (a phone)"
+    },
+    "切手": {
+        "meaning": "postal (postage) stamps"
+    },
+    "切符": {
+        "meaning": "a ticket"
+    },
+    "初め": {
+        "meaning": "beginning, start"
+    },
+    "初めて": {
+        "meaning": "for the first time"
+    },
+    "前": {
+        "meaning": "before, in front"
+    },
+    "勉強": {
+        "meaning": "study"
+    },
+    "動物": {
+        "meaning": "animal"
+    },
+    "勤める": {
+        "meaning": "to work (for)"
+    },
+    "北": {
+        "meaning": "north"
+    },
+    "匹": {
+        "meaning": "counter for small animals"
+    },
+    "医者": {
+        "meaning": "doctor; physician"
+    },
+    "十": {
+        "meaning": "ten"
+    },
+    "十日": {
+        "meaning": "ten days; tenth day of the month"
+    },
+    "千": {
+        "meaning": "thousand"
+    },
+    "午前": {
+        "meaning": "morning, A.M."
+    },
+    "午後": {
+        "meaning": "afternoon, P.M."
+    },
+    "半": {
+        "meaning": "half (e.g., にじはん | half-past two)"
+    },
+    "半分": {
+        "meaning": "half"
+    },
+    "南": {
+        "meaning": "South"
+    },
+    "危ない": {
+        "meaning": "dangerous, critical"
+    },
+    "卵": {
+        "meaning": "egg"
+    },
+    "厚い": {
+        "meaning": "kind, warm(hearted), thick, deep"
+    },
+    "去年": {
+        "meaning": "last year"
+    },
+    "友達": {
+        "meaning": "friend"
+    },
+    "叔母さん": {
+        "meaning": "aunt"
+    },
+    "叔父さん": {
+        "meaning": "uncle, middle-aged man"
+    },
+    "取る": {
+        "meaning": "to take (a class); to get (a grade)"
+    },
+    "口": {
+        "meaning": "job opening; mouth"
+    },
+    "古い": {
+        "meaning": "old (in reference to objects, not people), aged, ancient"
+    },
+    "可愛い": {
+        "meaning": "cute, adorable"
+    },
+    "台": {
+        "meaning": "counter for vehicles; machines"
+    },
+    "台所": {
+        "meaning": "kitchen"
+    },
+    "右": {
+        "meaning": "right hand side"
+    },
+    "同じ": {
+        "meaning": "same, identical"
+    },
+    "名前": {
+        "meaning": "name"
+    },
+    "向こう": {
+        "meaning": "beyond, over there"
+    },
+    "吸う": {
+        "meaning": "to breathe in, to suck"
+    },
+    "吹く": {
+        "meaning": "to blow (wind, etc.)"
+    },
+    "呼ぶ": {
+        "meaning": "to call (one's name); to invite"
+    },
+    "咲く": {
+        "meaning": "to bloom"
+    },
+    "問題": {
+        "meaning": "a problem"
+    },
+    "喫茶店": {
+        "meaning": "café"
+    },
+    "四": {
+        "meaning": "four"
+    },
+    "四つ": {
+        "meaning": "four (~)"
+    },
+    "四日": {
+        "meaning": "four days; fourth day of the month"
+    },
+    "回": {
+        "meaning": "counter for occurrences (~ times)"
+    },
+    "困る": {
+        "meaning": "to be bothered, to have difficulty"
+    },
+    "図書館": {
+        "meaning": "library"
+    },
+    "国": {
+        "meaning": "country; place of origin"
+    },
+    "土曜日": {
+        "meaning": "Saturday"
+    },
+    "在る": {
+        "meaning": "to be, to have"
+    },
+    "地下鉄": {
+        "meaning": "underground train, subway"
+    },
+    "地図": {
+        "meaning": "a map"
+    },
+    "塩": {
+        "meaning": "salt"
+    },
+    "声": {
+        "meaning": "voice"
+    },
+    "売る": {
+        "meaning": "to sell (v.t.)"
+    },
+    "夏": {
+        "meaning": "summer"
+    },
+    "夏休み": {
+        "meaning": "summer vacation"
+    },
+    "夕方": {
+        "meaning": "late afternoon (typically just before dinner time), evening"
+    },
+    "夕飯": {
+        "meaning": "dinner, supper, evening meal"
+    },
+    "外": {
+        "meaning": "outside, exterior"
+    },
+    "外国": {
+        "meaning": "foreign country; abroad"
+    },
+    "外国人": {
+        "meaning": "foreigner"
+    },
+    "多い": {
+        "meaning": "many; there are a lot"
+    },
+    "多分": {
+        "meaning": "perhaps, probably, maybe"
+    },
+    "夜": {
+        "meaning": "evening, night"
+    },
+    "大きい": {
+        "meaning": "big, large"
+    },
+    "大きな": {
+        "meaning": "big"
+    },
+    "大丈夫": {
+        "meaning": "It's ok (all right); No need to worry; Everything is under control"
+    },
+    "大人": {
+        "meaning": "adult"
+    },
+    "大使館": {
+        "meaning": "embassy"
+    },
+    "大切": {
+        "meaning": "important"
+    },
+    "大勢": {
+        "meaning": "great number of people"
+    },
+    "大変": {
+        "meaning": "very; difficult, hard"
+    },
+    "大好き": {
+        "meaning": "very like-able, like very much"
+    },
+    "大学": {
+        "meaning": "college; university"
+    },
+    "天気": {
+        "meaning": "weather"
+    },
+    "太い": {
+        "meaning": "fat, thick"
+    },
+    "奥さん": {
+        "meaning": "(someone else's) wife (hon.)"
+    },
+    "女": {
+        "meaning": "woman, female"
+    },
+    "女の子": {
+        "meaning": "girl"
+    },
+    "好き": {
+        "meaning": "liking, fondness, love"
+    },
+    "妹": {
+        "meaning": "younger sister (humble)"
+    },
+    "姉": {
+        "meaning": "(my) older sister (humble)"
+    },
+    "始まる": {
+        "meaning": "(something) begins"
+    },
+    "始め": {
+        "meaning": "beginning, start"
+    },
+    "嫌": {
+        "meaning": "disagreeable, detestable, unpleasant"
+    },
+    "嫌い": {
+        "meaning": "dislike"
+    },
+    "子供": {
+        "meaning": "child(ren)"
+    },
+    "字引": {
+        "meaning": "dictionary"
+    },
+    "学校": {
+        "meaning": "a school"
+    },
+    "学生": {
+        "meaning": "student"
+    },
+    "安い": {
+        "meaning": "inexpensive; cheap (things)"
+    },
+    "家": {
+        "meaning": "house, home"
+    },
+    "家庭": {
+        "meaning": "home; family"
+    },
+    "家族": {
+        "meaning": "family, members of a family"
+    },
+    "宿題": {
+        "meaning": "homework"
+    },
+    "寒い": {
+        "meaning": "cold (in reference to weather)"
+    },
+    "寝る": {
+        "meaning": "to sleep; to go to sleep; to go to bed"
+    },
+    "封筒": {
+        "meaning": "envelope"
+    },
+    "小さい": {
+        "meaning": "small, little"
+    },
+    "小さな": {
+        "meaning": "small, little"
+    },
+    "少し": {
+        "meaning": "little, few"
+    },
+    "少ない": {
+        "meaning": "a little; a few"
+    },
+    "居る": {
+        "meaning": "(humble) to be (animate), to exist"
+    },
+    "屋": {
+        "meaning": "~ shop"
+    },
+    "山": {
+        "meaning": "mountain"
+    },
+    "川": {
+        "meaning": "river"
+    },
+    "左": {
+        "meaning": "left hand side"
+    },
+    "差す": {
+        "meaning": "to raise (stretch out) hands, to raise (e.g., umbrella)"
+    },
+    "帰る": {
+        "meaning": "to go back, to go home, to return"
+    },
+    "帽子": {
+        "meaning": "hat; cap"
+    },
+    "平仮名": {
+        "meaning": "hiragana"
+    },
+    "年": {
+        "meaning": "year, age"
+    },
+    "広い": {
+        "meaning": "spacious; wide; broad"
+    },
+    "店": {
+        "meaning": "store, shop"
+    },
+    "度": {
+        "meaning": "counter for occurrences; ~ degree; ~ point"
+    },
+    "座る": {
+        "meaning": "to sit"
+    },
+    "庭": {
+        "meaning": "garden"
+    },
+    "廊下": {
+        "meaning": "corridor"
+    },
+    "建物": {
+        "meaning": "building"
+    },
+    "引く": {
+        "meaning": "to pull, to draw; subtract"
+    },
+    "弟": {
+        "meaning": "younger brother"
+    },
+    "弱い": {
+        "meaning": "weak"
+    },
+    "強い": {
+        "meaning": "strong, powerful"
+    },
+    "弾く": {
+        "meaning": "to play (a string instrument or piano)"
+    },
+    "待つ": {
+        "meaning": "to wait"
+    },
+    "後": {
+        "meaning": "afterwards (later); in the future; the rest; since then"
+    },
+    "後ろ": {
+        "meaning": "back, behind, rear"
+    },
+    "御飯": {
+        "meaning": "rice (cooked); meal"
+    },
+    "忘れる": {
+        "meaning": "to forget"
+    },
+    "忙しい": {
+        "meaning": "busy (people, days)"
+    },
+    "悪い": {
+        "meaning": "bad, sinful; inferior"
+    },
+    "意味": {
+        "meaning": "meaning, significance"
+    },
+    "戸": {
+        "meaning": "door (Japanese style)"
+    },
+    "所": {
+        "meaning": "place"
+    },
+    "手": {
+        "meaning": "hand"
+    },
+    "手紙": {
+        "meaning": "letter"
+    },
+    "押す": {
+        "meaning": "to push, to press, to stamp (e.g., a passport)"
+    },
+    "持つ": {
+        "meaning": "to hold, to carry; to possess"
+    },
+    "掃除": {
+        "meaning": "cleaning, sweeping"
+    },
+    "授業": {
+        "meaning": "a class (of school)"
+    },
+    "掛ける": {
+        "meaning": "to put on (e.g., glasses); to hang (e.g., on a wall)"
+    },
+    "撮る": {
+        "meaning": "to take (a photo), to make (a film)"
+    },
+    "教える": {
+        "meaning": "to teach, to inform, to instruct"
+    },
+    "教室": {
+        "meaning": "classroom"
+    },
+    "散歩": {
+        "meaning": "walk, stroll"
+    },
+    "文章": {
+        "meaning": "sentence, text"
+    },
+    "料理": {
+        "meaning": "cooking; cuisine"
+    },
+    "新しい": {
+        "meaning": "new"
+    },
+    "新聞": {
+        "meaning": "newspaper"
+    },
+    "方": {
+        "meaning": "-- honorific form for 人 (ひと) --; way of doing"
+    },
+    "旅行": {
+        "meaning": "travel, trip"
+    },
+    "日": {
+        "meaning": "~ day of the month, for ~ days"
+    },
+    "日曜日": {
+        "meaning": "Sunday"
+    },
+    "早い": {
+        "meaning": "early"
+    },
+    "明るい": {
+        "meaning": "bright (in reference to personality or weather); cheerful"
+    },
+    "明後日": {
+        "meaning": "day after tomorrow"
+    },
+    "明日": {
+        "meaning": "tomorrow"
+    },
+    "易しい": {
+        "meaning": "easy, plain, simple"
+    },
+    "映画": {
+        "meaning": "movie, film"
+    },
+    "映画館": {
+        "meaning": "movie theater, cinema"
+    },
+    "春": {
+        "meaning": "spring"
+    },
+    "昨夜": {
+        "meaning": "last night"
+    },
+    "昨日": {
+        "meaning": "yesterday"
+    },
+    "昼": {
+        "meaning": "noon, daytime"
+    },
+    "昼御飯": {
+        "meaning": "lunch, midday meal"
+    },
+    "時": {
+        "meaning": "~ o'clock (time)"
+    },
+    "時々": {
+        "meaning": "sometimes"
+    },
+    "時計": {
+        "meaning": "a watch; a clock"
+    },
+    "時間": {
+        "meaning": "time"
+    },
+    "晩": {
+        "meaning": "evening"
+    },
+    "晩御飯": {
+        "meaning": "dinner, evening meal"
+    },
+    "晴れ": {
+        "meaning": "clear (sunny) weather"
+    },
+    "晴れる": {
+        "meaning": "to be sunny"
+    },
+    "暇": {
+        "meaning": "free time, leisure"
+    },
+    "暑い": {
+        "meaning": "hot (in reference to weather), warm"
+    },
+    "暖かい": {
+        "meaning": "warm"
+    },
+    "暗い": {
+        "meaning": "dark, gloomy"
+    },
+    "曇り": {
+        "meaning": "cloudiness, cloudy weather"
+    },
+    "曇る": {
+        "meaning": "to become cloudy, to become dim"
+    },
+    "曲る": {
+        "meaning": "to turn, to bend"
+    },
+    "書く": {
+        "meaning": "to write"
+    },
+    "月": {
+        "meaning": "month of year"
+    },
+    "月曜日": {
+        "meaning": "Monday"
+    },
+    "有る": {
+        "meaning": "to be, to have"
+    },
+    "有名": {
+        "meaning": "famous"
+    },
+    "服": {
+        "meaning": "clothes"
+    },
+    "朝": {
+        "meaning": "morning"
+    },
+    "朝御飯": {
+        "meaning": "breakfast"
+    },
+    "木": {
+        "meaning": "tree, wood, timber"
+    },
+    "木曜日": {
+        "meaning": "Thursday"
+    },
+    "本": {
+        "meaning": "book"
+    },
+    "本当": {
+        "meaning": "real, true"
+    },
+    "本棚": {
+        "meaning": "bookshelf"
+    },
+    "机": {
+        "meaning": "desk"
+    },
+    "村": {
+        "meaning": "village"
+    },
+    "来る": {
+        "meaning": "to come"
+    },
+    "来年": {
+        "meaning": "next year"
+    },
+    "来月": {
+        "meaning": "next month"
+    },
+    "来週": {
+        "meaning": "next week"
+    },
+    "杯": {
+        "meaning": "counter for cupfuls"
+    },
+    "東": {
+        "meaning": "east"
+    },
+    "枚": {
+        "meaning": "counter for flat things"
+    },
+    "果物": {
+        "meaning": "fruit"
+    },
+    "椅子": {
+        "meaning": "chair"
+    },
+    "楽しい": {
+        "meaning": "enjoyable, fun"
+    },
+    "横": {
+        "meaning": "beside; side; width"
+    },
+    "橋": {
+        "meaning": "bridge"
+    },
+    "次": {
+        "meaning": "next"
+    },
+    "欲しい": {
+        "meaning": "to want, in need of"
+    },
+    "歌": {
+        "meaning": "a song"
+    },
+    "歌う": {
+        "meaning": "to sing"
+    },
+    "止まる": {
+        "meaning": "to come to a halt"
+    },
+    "歩く": {
+        "meaning": "to walk"
+    },
+    "歯": {
+        "meaning": "tooth"
+    },
+    "歳": {
+        "meaning": "~ years old"
+    },
+    "死ぬ": {
+        "meaning": "to die"
+    },
+    "段々": {
+        "meaning": "gradually, by degrees"
+    },
+    "母": {
+        "meaning": "(my) mother"
+    },
+    "毎年": {
+        "meaning": "every year, yearly, annually"
+    },
+    "毎日": {
+        "meaning": "every day"
+    },
+    "毎晩": {
+        "meaning": "every night"
+    },
+    "毎月": {
+        "meaning": "every month, monthly"
+    },
+    "毎朝": {
+        "meaning": "every morning"
+    },
+    "毎週": {
+        "meaning": "every week"
+    },
+    "水": {
+        "meaning": "water"
+    },
+    "水曜日": {
+        "meaning": "Wednesday"
+    },
+    "汚い": {
+        "meaning": "dirty, unclean, filthy"
+    },
+    "池": {
+        "meaning": "pond"
+    },
+    "沢山": {
+        "meaning": "many, much"
+    },
+    "河": {
+        "meaning": "river"
+    },
+    "泳ぐ": {
+        "meaning": "to swim"
+    },
+    "洋服": {
+        "meaning": "Western-style clothes"
+    },
+    "洗う": {
+        "meaning": "to wash"
+    },
+    "洗濯": {
+        "meaning": "washing, laundry"
+    },
+    "浴びる": {
+        "meaning": "to bathe, to shower"
+    },
+    "海": {
+        "meaning": "sea, beach"
+    },
+    "消える": {
+        "meaning": "to vanish, to disappear"
+    },
+    "消す": {
+        "meaning": "to erase, to delete, to turn off power"
+    },
+    "涼しい": {
+        "meaning": "cool, refreshing (in reference to weather)"
+    },
+    "渡す": {
+        "meaning": "to hand (something) over (v.t.); to get across"
+    },
+    "渡る": {
+        "meaning": "to cross over, to go across"
+    },
+    "温い": {
+        "meaning": "lukewarm"
+    },
+    "漢字": {
+        "meaning": "kanji; Chinese character"
+    },
+    "火曜日": {
+        "meaning": "Tuesday"
+    },
+    "灰皿": {
+        "meaning": "ashtray"
+    },
+    "無くす": {
+        "meaning": "to lose something"
+    },
+    "熱い": {
+        "meaning": "hot (objects)"
+    },
+    "父": {
+        "meaning": "(my) father"
+    },
+    "片仮名": {
+        "meaning": "katakana"
+    },
+    "牛乳": {
+        "meaning": "milk"
+    },
+    "牛肉": {
+        "meaning": "beef"
+    },
+    "物": {
+        "meaning": "thing (concrete object)"
+    },
+    "犬": {
+        "meaning": "dog"
+    },
+    "狭い": {
+        "meaning": "narrow; not spacious"
+    },
+    "猫": {
+        "meaning": "cat"
+    },
+    "玄関": {
+        "meaning": "entrance (to a house or a building)"
+    },
+    "甘い": {
+        "meaning": "generous, sweet"
+    },
+    "生まれる": {
+        "meaning": "to be born"
+    },
+    "生徒": {
+        "meaning": "student; pupil"
+    },
+    "男": {
+        "meaning": "man, male"
+    },
+    "男の子": {
+        "meaning": "boy"
+    },
+    "町": {
+        "meaning": "town; city"
+    },
+    "留学生": {
+        "meaning": "international student"
+    },
+    "番": {
+        "meaning": "~st; ~th best"
+    },
+    "番号": {
+        "meaning": "number, series of digits"
+    },
+    "疲れる": {
+        "meaning": "to get (become) tired; to become fatigued"
+    },
+    "病気": {
+        "meaning": "illness; sickness"
+    },
+    "病院": {
+        "meaning": "hospital"
+    },
+    "痛い": {
+        "meaning": "hurt; painful; sore"
+    },
+    "登る": {
+        "meaning": "to climb"
+    },
+    "白": {
+        "meaning": "white"
+    },
+    "白い": {
+        "meaning": "white"
+    },
+    "百": {
+        "meaning": "hundred"
+    },
+    "皆さん": {
+        "meaning": "all of you, everyone"
+    },
+    "目": {
+        "meaning": "eye(s)"
+    },
+    "眼鏡": {
+        "meaning": "eye glasses"
+    },
+    "着く": {
+        "meaning": "to arrive at, to reach"
+    },
+    "着る": {
+        "meaning": "to put on (clothes above your waist); to wear"
+    },
+    "知る": {
+        "meaning": "to know, to understand"
+    },
+    "短い": {
+        "meaning": "short (length)"
+    },
+    "石鹸": {
+        "meaning": "soap"
+    },
+    "砂糖": {
+        "meaning": "sugar"
+    },
+    "磨く": {
+        "meaning": "to brush (teeth); to polish"
+    },
+    "私": {
+        "meaning": "I, myself"
+    },
+    "秋": {
+        "meaning": "fall (season)"
+    },
+    "空": {
+        "meaning": "sky"
+    },
+    "窓": {
+        "meaning": "window"
+    },
+    "立つ": {
+        "meaning": "to stand up"
+    },
+    "答える": {
+        "meaning": "to answer, to reply"
+    },
+    "箱": {
+        "meaning": "box"
+    },
+    "箸": {
+        "meaning": "chopsticks"
+    },
+    "紅茶": {
+        "meaning": "black tea"
+    },
+    "紙": {
+        "meaning": "paper"
+    },
+    "細い": {
+        "meaning": "thin, slender, fine"
+    },
+    "終る": {
+        "meaning": "to finish, to close"
+    },
+    "結婚": {
+        "meaning": "marriage (get married)"
+    },
+    "結構": {
+        "meaning": "splendid; enough, tolerably"
+    },
+    "絵": {
+        "meaning": "a painting; a picture; a drawing"
+    },
+    "綺麗": {
+        "meaning": "pretty, clean, tidy"
+    },
+    "緑": {
+        "meaning": "green"
+    },
+    "締める": {
+        "meaning": "to tie, to fasten, to tighten"
+    },
+    "練習": {
+        "meaning": "(to) practice"
+    },
+    "置く": {
+        "meaning": "to put; to lay; to place"
+    },
+    "美味しい": {
+        "meaning": "delicious, tasty"
+    },
+    "習う": {
+        "meaning": "to learn"
+    },
+    "耳": {
+        "meaning": "ear"
+    },
+    "聞く": {
+        "meaning": "to hear, to listen, to ask"
+    },
+    "肉": {
+        "meaning": "meat"
+    },
+    "背": {
+        "meaning": "(one's) height, stature"
+    },
+    "背広": {
+        "meaning": "men's suit"
+    },
+    "脚": {
+        "meaning": "foot; leg"
+    },
+    "脱ぐ": {
+        "meaning": "to take off (clothes)"
+    },
+    "自分": {
+        "meaning": "myself, oneself"
+    },
+    "自動車": {
+        "meaning": "automobile"
+    },
+    "自転車": {
+        "meaning": "bicycle"
+    },
+    "色": {
+        "meaning": "color"
+    },
+    "色々": {
+        "meaning": "various"
+    },
+    "花": {
+        "meaning": "flower"
+    },
+    "花瓶": {
+        "meaning": "(flower) vase"
+    },
+    "若い": {
+        "meaning": "young"
+    },
+    "英語": {
+        "meaning": "English (language)"
+    },
+    "茶碗": {
+        "meaning": "rice bowl"
+    },
+    "茶色": {
+        "meaning": "brown"
+    },
+    "荷物": {
+        "meaning": "luggage; baggage"
+    },
+    "葉書": {
+        "meaning": "postcard"
+    },
+    "薄い": {
+        "meaning": "thin, weak"
+    },
+    "薬": {
+        "meaning": "medicine"
+    },
+    "行く": {
+        "meaning": "to go"
+    },
+    "西": {
+        "meaning": "west"
+    },
+    "要る": {
+        "meaning": "to need"
+    },
+    "見せる": {
+        "meaning": "to show, to display"
+    },
+    "見る": {
+        "meaning": "to see, to look"
+    },
+    "覚える": {
+        "meaning": "to learn, to commit to memory, to remember, to memorize"
+    },
+    "角": {
+        "meaning": "corner (e.g., desk, pavement)"
+    },
+    "言う": {
+        "meaning": "to say"
+    },
+    "言葉": {
+        "meaning": "language; word(s); expression(s)"
+    },
+    "話": {
+        "meaning": "talk (chat), story"
+    },
+    "話す": {
+        "meaning": "to speak"
+    },
+    "誕生日": {
+        "meaning": "birthday"
+    },
+    "語": {
+        "meaning": "word, language"
+    },
+    "読む": {
+        "meaning": "to read"
+    },
+    "誰": {
+        "meaning": "who"
+    },
+    "誰か": {
+        "meaning": "someone"
+    },
+    "警官": {
+        "meaning": "police officer"
+    },
+    "豚肉": {
+        "meaning": "pork"
+    },
+    "財布": {
+        "meaning": "wallet"
+    },
+    "買い物": {
+        "meaning": "shopping"
+    },
+    "買う": {
+        "meaning": "to buy"
+    },
+    "貸す": {
+        "meaning": "to lend"
+    },
+    "貼る": {
+        "meaning": "to post; to paste; to attach"
+    },
+    "質問": {
+        "meaning": "question, inquiry"
+    },
+    "赤": {
+        "meaning": "red"
+    },
+    "赤い": {
+        "meaning": "red"
+    },
+    "走る": {
+        "meaning": "to run"
+    },
+    "起きる": {
+        "meaning": "to get up (e.g., from sleeping); to happen"
+    },
+    "足": {
+        "meaning": "foot; leg"
+    },
+    "車": {
+        "meaning": "car, vehicle"
+    },
+    "軽い": {
+        "meaning": "light, non-serious, minor"
+    },
+    "辛い": {
+        "meaning": "hot and spicy; salty"
+    },
+    "辞書": {
+        "meaning": "dictionary"
+    },
+    "辺": {
+        "meaning": "area, vicinity"
+    },
+    "近い": {
+        "meaning": "near, close by, short"
+    },
+    "近く": {
+        "meaning": "nearby; in the neighborhood"
+    },
+    "返す": {
+        "meaning": "to return something"
+    },
+    "速い": {
+        "meaning": "fast, quick"
+    },
+    "週間": {
+        "meaning": "~ weeks"
+    },
+    "遅い": {
+        "meaning": "slow; (to be) late"
+    },
+    "遊ぶ": {
+        "meaning": "to play; to spend time pleasantly; to hang out"
+    },
+    "道": {
+        "meaning": "road, street; way, directions"
+    },
+    "違う": {
+        "meaning": "to be different; to differ; wrong"
+    },
+    "遠い": {
+        "meaning": "far (away), distant"
+    },
+    "部屋": {
+        "meaning": "a room"
+    },
+    "郵便局": {
+        "meaning": "post office"
+    },
+    "醤油": {
+        "meaning": "soy sauce"
+    },
+    "重い": {
+        "meaning": "heavy; serious"
+    },
+    "野菜": {
+        "meaning": "vegetable"
+    },
+    "金曜日": {
+        "meaning": "Friday"
+    },
+    "鉛筆": {
+        "meaning": "pencil"
+    },
+    "銀行": {
+        "meaning": "bank"
+    },
+    "鍵": {
+        "meaning": "a lock; a key"
+    },
+    "長い": {
+        "meaning": "long, lengthy"
+    },
+    "門": {
+        "meaning": "gate"
+    },
+    "閉まる": {
+        "meaning": "to close, to be closed"
+    },
+    "閉める": {
+        "meaning": "to close, to shut"
+    },
+    "開く": {
+        "meaning": "to open, to become open"
+    },
+    "開ける": {
+        "meaning": "to open (v.t.)"
+    },
+    "降りる": {
+        "meaning": "To get off"
+    },
+    "降る": {
+        "meaning": "to precipitate, to fall (e.g., rain, snow, etc.)"
+    },
+    "階": {
+        "meaning": "counter for stories (floors) of a building"
+    },
+    "階段": {
+        "meaning": "stairs"
+    },
+    "隣": {
+        "meaning": "next to, next door to"
+    },
+    "雑誌": {
+        "meaning": "magazine, journal"
+    },
+    "難しい": {
+        "meaning": "difficult"
+    },
+    "雨": {
+        "meaning": "rain"
+    },
+    "雪": {
+        "meaning": "snow"
+    },
+    "零": {
+        "meaning": "zero, nought"
+    },
+    "電気": {
+        "meaning": "electricity, (electric) light"
+    },
+    "電話": {
+        "meaning": "a telephone"
+    },
+    "電車": {
+        "meaning": "electric train"
+    },
+    "青": {
+        "meaning": "blue"
+    },
+    "青い": {
+        "meaning": "blue"
+    },
+    "静か": {
+        "meaning": "quiet, calm"
+    },
+    "面白い": {
+        "meaning": "interesting, amusing"
+    },
+    "靴": {
+        "meaning": "shoes, footwear"
+    },
+    "靴下": {
+        "meaning": "socks"
+    },
+    "音楽": {
+        "meaning": "Music"
+    },
+    "頭": {
+        "meaning": "head"
+    },
+    "頼む": {
+        "meaning": "to request, to ask (a favor)"
+    },
+    "顔": {
+        "meaning": "face (body part)"
+    },
+    "風": {
+        "meaning": "wind, breeze"
+    },
+    "風邪": {
+        "meaning": "cold, flu"
+    },
+    "飛ぶ": {
+        "meaning": "to fly, to hop"
+    },
+    "飛行機": {
+        "meaning": "airplane"
+    },
+    "食べる": {
+        "meaning": "to eat"
+    },
+    "食べ物": {
+        "meaning": "food"
+    },
+    "食堂": {
+        "meaning": "cafeteria, dining hall"
+    },
+    "飲み物": {
+        "meaning": "drink, beverage"
+    },
+    "飲む": {
+        "meaning": "to drink"
+    },
+    "飴": {
+        "meaning": "(hard) candy"
+    },
+    "駅": {
+        "meaning": "station"
+    },
+    "高い": {
+        "meaning": "tall, high; expensive"
+    },
+    "魚": {
+        "meaning": "fish"
+    },
+    "鳥": {
+        "meaning": "chicken (lit., bird)"
+    },
+    "鳴く": {
+        "meaning": "to make sound (animal)"
+    },
+    "鶏肉": {
+        "meaning": "chicken meat"
+    },
+    "黄色": {
+        "meaning": "yellow"
+    },
+    "黄色い": {
+        "meaning": "yellow"
+    },
+    "黒": {
+        "meaning": "black"
+    },
+    "黒い": {
+        "meaning": "black; dark"
+    },
+    "鼻": {
+        "meaning": "nose"
+    }
+}

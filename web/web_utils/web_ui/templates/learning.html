@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Learning Mode</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #9cc0d5;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden; 
+        }
+
+        .header {
+            font-size: 36px; /* Appropriate size for header text */
+            font-weight: bold;
+            text-transform: uppercase;
+            margin: 0; /* Removes default margin */
+            flex-grow: 1; /* Allows the header to fill the space */
+            line-height: 1.3; /* Adjust line height for readability */
+            letter-spacing: 1px; /* Letter spacing for a touch of elegance */
+        }
+
+        #header-strip {
+            position: absolute;
+            top: 60px;
+            display: flex;
+            flex-direction: row; /* Ensures children are laid out horizontally */
+            align-items: center; /* Aligns children vertically in the center */
+            justify-content: space-around; /* Distributes space between and around content items */
+            width: 60%; /* Full width to stretch across the screen */
+            padding: 10px; /* Padding around the items */
+            color: #2c3e50;
+        }
+
+        #header-bar {
+            position: absolute;
+            top: 0px;
+            width: 100%;
+            height: 50px;
+            background-color: #457b9d; 
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-sizing: border-box;
+            padding: 0 5vw;
+        }
+
+        #chat-container {
+            width: 70vw; 
+            height: 80vh;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding: 15px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            margin: 10px 0;
+            margin-top: 110px;
+        }
+
+        .message {
+            max-width: 80%;
+            padding: 10px;
+            border-radius: 8px;
+            color: #fff;
+            margin-bottom: 2px;
+        }
+
+        .user {
+            margin-left: auto;
+            background-color: #0b93f6;
+            align-self: flex-end;
+        }
+
+        .tutor {
+            margin-right: auto;
+            background-color: #e8e8e8;
+            color: #333;
+            align-self: flex-start;
+        }
+
+        #userInputBar {
+            display: flex;
+            justify-content: center;
+            width: 70%;
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+
+        #userInput {
+            padding: 10px;
+            font-size: 16px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            flex-grow: 1;
+            margin-right: 4px;
+        }
+
+        button, #recordBtn {
+            padding: 5px 10px;
+            font-size: 16px;
+            background-color: #457b9d;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover, #recordBtn:hover {
+            background-color: #356882;
+        }
+
+        #recordBtn {
+            font-size: 24px;
+        }
+
+        .loading {
+            display: flex;
+            justify-content: left;
+        }
+
+        .dot {
+            height: 10px;
+            width: 10px;
+            background-color: #df9db2;
+            background-color: #457b9d;
+            border-radius: 50%;
+            margin: 0 2px;
+            animation: dotFlashing 1s infinite linear alternate;
+        }
+
+        .dot:nth-child(1) { animation-delay: 0s; }
+        .dot:nth-child(2) { animation-delay: 0.2s; }
+        .dot:nth-child(3) { animation-delay: 0.4s; }
+
+        @keyframes dotFlashing {
+            0%, 100% { opacity: .2; }
+            50% { opacity: 1; }
+        }
+
+        #notification {
+            position: fixed;
+            top: 50%; /* Center vertically */
+            left: 50%; /* Center horizontally */
+            transform: translate(-50%, -50%); /* Adjust position to the exact center */
+            color: #2c3e50;
+            background-color:#e8e8e8;
+            border-color: #356882;
+            border-width: 20px;
+            padding: 20px;
+            border-radius: 10px;
+            display: none;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            z-index: 10000; /* High z-index to cover other elements */
+            width: 40vh; /* Or any specific width */
+            max-height: 20vh;
+            text-align: center; /* Center text inside the notification */
+            overflow-wrap: auto; /* Ensures text wraps to avoid overflow */
+            word-wrap: auto; /* Older browsers support */
+        }
+    </style>
+</head>
+<body>
+    <div id="header-bar">
+        <button onclick="window.location.href='/home';">Home</button>
+        <button onclick="window.location.href='/logout';">Log Out</button>
+    </div>
+    <div id="header-strip">
+        <div class="header">Let's Learn More {{language}} !</div>
+        <button onclick="saveProgress()">Quit & Save</button>
+    </div>
+    <div id="chat-container"></div>
+    <div id="userInputBar">
+        <input type="text" id="userInput" placeholder="Type your message here..." autofocus>
+        <button onclick="sendText()">Send</button>
+        <button id="recordBtn" onclick="toggleRecording()">🎙️</button>
+    </div>
+    <div id="notification"></div>
+
+    <script>
+     function saveProgress() {
+        fetch('/save-learning', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ message: 'Save learning progress' })
+        })
+        .then(response => {
+            console.log(response);
+            return response.json();
+        })
+        .then(data => {
+            console.log(data);
+            showNotification(data.message);
+        })
+        .catch(error => {
+            showNotification('Network error or server is down.', true);
+        });
+    }
+
+    function showNotification(message, isError = false) {
+        const notification = document.getElementById('notification');
+        notification.textContent = message;
+        if (isError) {
+            notification.style.backgroundColor = "#df9db2";
+        }
+        notification.style.display = "flex";
+        notification.style.alignItems = "center";
+        notification.style.justifyContent = "center";
+
+
+        setTimeout(() => {
+            notification.style.display = 'none';
+            window.location.href = '/home';
+        }, 5000);
+    }
+        const chatContainer = document.getElementById('chat-container');
+        const userInput = document.getElementById('userInput');
+        const recordBtn = document.getElementById('recordBtn');
+        let ws = new WebSocket(`ws://${window.location.host}/ws-learning`);
+        let recording = false;
+        let mediaRecorder;
+        let audioChunks = [];
+        let stream;
+        let awaitingTutorResponse = false;
+
+        ws.onopen = function(event) {
+            console.log('Connected to the WebSocket.');
+        };
+
+        ws.onmessage = function(event) {
+
+            const message = event.data;
+            if (message.startsWith("http")) {
+                const audio = new Audio(message);
+                audio.play();
+            } else {
+                if (awaitingTutorResponse) {
+                    removeLoadingIndicator();
+                }
+                let msgDiv = document.createElement('div');
+                msgDiv.classList.add('message');
+
+                if (message.startsWith("You:")) {
+                    msgDiv.classList.add('user');
+                    awaitingTutorResponse = true;
+                } else if (message.startsWith("Tutor:")) {
+                    msgDiv.classList.add('tutor');
+                    awaitingTutorResponse = false;
+                }
+
+                msgDiv.textContent = message.split(":", 2)[1].trim();
+                chatContainer.appendChild(msgDiv);
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+                if (awaitingTutorResponse) {
+                    displayLoadingIndicator();
+                }
+            }
+        };
+
+        function sendText() {
+            const message = userInput.value;
+            if (message) {
+                ws.send(JSON.stringify({type: "text", data: message}));
+                chatContainer.innerHTML += `<div class='message user'>${message}</div>`;
+                userInput.value = '';
+                displayLoadingIndicator();
+                awaitingTutorResponse = true;
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+            }
+        }
+
+        function displayLoadingIndicator() {
+            let loadingDiv = document.createElement('div');
+            loadingDiv.classList.add('message', 'loading');
+            for (let i = 0; i < 3; i++) {
+                let dot = document.createElement('div');
+                dot.classList.add('dot');
+                loadingDiv.appendChild(dot);
+            }
+            chatContainer.appendChild(loadingDiv);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+
+        function removeLoadingIndicator() {
+            const loadingDiv = document.querySelector('.loading');
+            if (loadingDiv) {
+                chatContainer.removeChild(loadingDiv);
+            }
+        }
+
+        function toggleRecording() {
+            if (!recording) {
+                startRecording();
+                recordBtn.textContent = '🟨';
+            } else {
+                stopRecording();
+                recordBtn.textContent = '🎙️';
+            }
+        }
+
+    function startRecording() {
+        if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+            navigator.mediaDevices.getUserMedia({ audio: true })
+                .then(currentStream => {
+                    stream = currentStream;
+                    mediaRecorder = new MediaRecorder(stream);
+                    audioChunks = [];
+
+                    mediaRecorder.ondataavailable = event => {
+                        audioChunks.push(event.data);
+                    };
+
+                    mediaRecorder.start();
+                    recording = true;
+                    console.log("Recording started...");
+                }).catch(e => console.error('Error accessing media devices.', e));
+        } else {
+            console.error('Media Devices will not work in your browser.');
+        }
+    }
+
+    function stopRecording() {
+        if (mediaRecorder) {
+            mediaRecorder.stop();
+            recording = false;
+            console.log("Stopping recording...");
+
+            mediaRecorder.onstop = async () => {
+                stream.getTracks().forEach(track => track.stop());
+                const audioBlob = new Blob(audioChunks, { type: 'audio/wav' });
+                const formData = new FormData();
+                formData.append("file", audioBlob, "input.wav");
+                const response = await fetch("/upload-audio", { method: "POST", body: formData });
+                const data = await response.json();
+                console.log(data);
+                ws.send(JSON.stringify({type: "audio", data: ""}));
+            };
+        } else {
+            console.error('No recording in progress to stop.');
+        }
+    }
+    </script>
+</body>
+</html>
